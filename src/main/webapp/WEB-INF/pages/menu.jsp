@@ -18,6 +18,9 @@ eq '/about.jsp' ? ' active' : ''}" aria-current="page" href="#">About</a>
                         <a class="nav-link" href="#">Link</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="#">Cars</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link disabled" aria-disabled="true">Disabled</a>
                     </li>
                 </ul>
